@@ -2,11 +2,13 @@
   "data": [
     {
       "title": "Bai Viet So mot",
-      "file": "baivietso1"
+      "file": "baivietso1",
+      "category": "HOT"
     },
     {
       "title": "Bai Viet So Hai",
-      "file": "baivietso2"
+      "file": "baivietso2",
+      "category": "Tin tức"
     }
   ]
 }
